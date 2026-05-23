@@ -7,7 +7,7 @@ Search any city in the world and get live weather data instantly.
 [Click here to view](https://github.com/Ssafwa/weathre-api-website-macondo.git)
 
 ## 📸 Preview
-![Weather App Screenshot](<img width="574" height="496" alt="image" src="https://github.com/user-attachments/assets/8fbd49fb-8e13-4c0d-ae76-41720b15882c" />
+![Weather App Screenshot](preview.png
 )
 
 ## ✨ Features
